@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("maseter");
         System.out.println("hot-fix");
         System.out.println("GitHubPush");
+        System.out.println("GitHubPull");
     }
 }
